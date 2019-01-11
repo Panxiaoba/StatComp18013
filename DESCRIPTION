@@ -1,0 +1,14 @@
+Package: StatComp18013
+Type: Package
+Title: functions and answers for 'Statistical Computing' course
+Version: 1.0
+Date: 2019-1-1
+Author: 18013
+Maintainer: Hong Zhang <zhangh@ustc.edu.cn>
+Description: several functions and the homework answers are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: microbenchmark, knitr, rmarkdown
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: https://github.com/Panxiaoba/StatComp
+BugReports: https://github.com/Panxiaoba/StatComp/issues
